@@ -13,7 +13,13 @@
 ## Usage
 
 ```sh
-yarn start
+- Download the code, open in your code editor,
+- Add your bot token on 'config.json',
+- Open the folder in the terminal,
+- And in the terminal use this:
+  - yarn && yarn start
+  Or
+  - yarn add discord.js fs && yarn start
 ```
 
 ## Author
