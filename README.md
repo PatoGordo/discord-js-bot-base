@@ -1,4 +1,4 @@
-<h1 align="center">Welcome to discord-bot-base 👋</h1>
+<h1 align="center">Welcome to discord-js-bot-template 👋</h1>
 <p>
   <a href="https://www.npmjs.com/package/discord-bot-base" target="_blank">
     <img alt="Version" src="https://img.shields.io/npm/v/discord-bot-base.svg">
